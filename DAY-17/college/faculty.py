@@ -1,0 +1,2 @@
+def addNewFaculty():
+    pass
